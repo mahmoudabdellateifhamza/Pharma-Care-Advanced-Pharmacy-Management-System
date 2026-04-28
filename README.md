@@ -1,7 +1,7 @@
 
 # 💊 Pharma Care Pro  Advanced Pharmacy Management System
 
-A full-stack, production-style **Pharmacy Management System** designed to handle real-world pharmacy operations including **Point of Sale (POS), inventory management, customer tracking, supplier management, and advanced analytics**.
+A full stack, production style **Pharmacy Management System** designed to handle real-world pharmacy operations including **Point of Sale (POS), inventory management, customer tracking, supplier management, and advanced analytics**.
 
 The system is built using a **scalable client-server architecture** with clean REST APIs and a lightweight database for high performance.
 
