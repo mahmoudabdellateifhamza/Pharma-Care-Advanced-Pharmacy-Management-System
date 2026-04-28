@@ -58,10 +58,11 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 * Manage customer profiles
   <img width="299" height="311" alt="image" src="https://github.com/user-attachments/assets/e67a273b-0b80-4840-96c1-8154df6e5a06" />
 * Track total spending and visit history
+*  Advanced search functionality
 * View customer-specific orders
 * View customer History
  <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
-* Advanced search functionality
+
 ---
 
 ### 🧾 Order Management
