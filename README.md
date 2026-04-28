@@ -59,7 +59,7 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 * Track total spending and visit history
 * View customer-specific orders
 * View customer History
-*  <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
+ <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
 * Advanced search functionality
 
 
