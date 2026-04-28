@@ -60,8 +60,11 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 * View customer-specific orders
 * View customer History
 * Advanced search functionality
-* <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
+
+ <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
+ 
 <img width="299" height="311" alt="image" src="https://github.com/user-attachments/assets/e67a273b-0b80-4840-96c1-8154df6e5a06" />
+
 <img width="755" height="233" alt="image" src="https://github.com/user-attachments/assets/f463f959-9798-4b25-ac76-64364f9945f1" />
 
 ---
