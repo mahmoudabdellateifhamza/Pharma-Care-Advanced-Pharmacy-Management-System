@@ -16,7 +16,6 @@ The system is built using a **scalable client-server architecture** with clean R
 ### 🔹 POS System Preview
 
 <!-- ضع GIF هنا -->
-
 ---
 
 ## 🧠 Project Overview
