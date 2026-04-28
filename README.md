@@ -86,7 +86,7 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 * Daily sales trends (Chart.js)
 * As we can see in comparing the two images, changes occur in the reports based on the purchase transactions that take place, and the report statistics are updated with each new transaction in real time.
 <img width="1918" height="818" alt="V2" src="https://github.com/user-attachments/assets/5c824f37-fa29-411f-bc23-2d65bb9114d4" />
-*VS
+VS
 <img width="1602" height="815" alt="V1" src="https://github.com/user-attachments/assets/37fa7b7b-e1cc-48c9-93f0-41b9c3c1baa4" />
 
 * The difference between the two images is that the total revenue has changed, the average order value has also changed, and the revenue by category has changed based on recent actions and transactions performed on the system.
