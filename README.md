@@ -112,7 +112,6 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 
 ## 🏗️ System Architecture
 
-![Architecture](docs/architecture.png)
 
 The system follows a **Client-Server Architecture**:
 
@@ -137,7 +136,8 @@ The system follows a **Client-Server Architecture**:
 
 ### 🧩 Database Schema
 
-![Database Schema](docs/db.png)
+<img width="1095" height="756" alt="Screenshot 2026-04-25 201919" src="https://github.com/user-attachments/assets/ddfa12db-664f-48a4-b11d-f06015803a9d" />
+
 
 ### 🔗 Relationships
 
