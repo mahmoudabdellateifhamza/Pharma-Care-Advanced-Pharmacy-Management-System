@@ -62,16 +62,10 @@ The system is designed with **separation of concerns** to ensure scalability, ma
 * View customer History
  <img width="532" height="268" alt="image" src="https://github.com/user-attachments/assets/0669f6ab-f947-4878-8354-5fe7ebc09896" />
 * Advanced search functionality
-
-
-
-
-*-
-<img width="755" height="233" alt="image" src="https://github.com/user-attachments/assets/f463f959-9798-4b25-ac76-64364f9945f1" />
-
 ---
 
 ### 🧾 Order Management
+<img width="843" height="253" alt="image" src="https://github.com/user-attachments/assets/2d258463-10f7-47f6-af90-8b8b3d79a548" />
 
 * Create and manage orders
 * Store complete order history
