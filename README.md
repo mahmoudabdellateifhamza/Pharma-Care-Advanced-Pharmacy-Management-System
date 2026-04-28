@@ -1,5 +1,6 @@
 # Pharma-Care-Advanced-Pharmacy-Management-System
 Advanced full stack Pharmacy Management System with POS, inventory control, customer tracking, supplier management, and real time analytics. Built using Node.js, Express, SQLite, and Vanilla JS with clean REST APIs and scalable architecture, simulating real world pharmacy operations.
+
 # 💊 PharmaCare Pro — Advanced Pharmacy Management System
 
 🚀 A full-stack, production-style **Pharmacy Management System** designed to handle real-world pharmacy operations including **Point of Sale (POS), inventory management, customer tracking, supplier management, and advanced analytics**.
