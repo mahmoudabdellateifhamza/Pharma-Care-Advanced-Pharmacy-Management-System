@@ -271,7 +271,7 @@ http://localhost:3000
 ## 🔮 Future Improvements
 
 * Authentication & Authorization (JWT)
-* Multi-user login system
+* Multi user login system
 * Cloud database (PostgreSQL / MongoDB)
 * Deployment (Render / Railway / Vercel)
 * Mobile responsiveness enhancements
