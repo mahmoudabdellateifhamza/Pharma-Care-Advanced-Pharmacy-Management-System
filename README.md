@@ -10,7 +10,7 @@ The system is built using a **scalable client-server architecture** with clean R
 🎥 Demo
 
 > Quick walkthrough of the system (POS, orders, and analytics)
->
+
 https://github.com/user-attachments/assets/90bccf86-1c5c-45b3-9a47-b44744e19241
 ---
 
